@@ -1,7 +1,7 @@
 - 👋 What's going on lads! I’m @gigoiy
 - 👀 I’m interested in everything outdoors (Flyfishing, Camping, Hunting, etc.) and everything computer engineering (Coding, Microcontrollers, etc.) 
 - 🌱 I’m currently learning the Rust Programming Language!
-- 💞️ I’m looking to collaborate on nothing. I'm a lone wolf.
+- 💞️ I’m always down for collabs! It's a great way to learn off of others! 
 - 📫 How to reach me: kbelesca@aol.com
 
 <!---
