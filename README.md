@@ -16,7 +16,7 @@ I’m currently an electrical engineering student at SNHU who enjoys building fu
 ## 📌 What I’m working on now
 - Improving my database skills (MySQL, SQLite, PostgreSQL)
 - Improving my software testing skills (PyTest, GitHub CI/CD, etc.)   
-- Continuing to refine and finalize my portfolio and projects
+- Getting experience in collobaration by starting to contribute
 
 ## 📫 Contact
 **LinkedIn:** https://linkedin.com/in/kadyn-belesca  
